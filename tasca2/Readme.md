@@ -60,4 +60,4 @@ Elaboreu un **informe tècnic complet** que inclogui:
 
 ---
 
-[🏠 Tornar al repositori principal](../README.md)
+[🏠 Tornar al repositori principal](../Readme.md)
