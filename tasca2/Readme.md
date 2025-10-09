@@ -1,6 +1,6 @@
-# 🧩 Tasca 2 — Estudi i Tria de SAI per TecnoGestió S.L.
+#  Tasca 2 — Estudi i Tria de SAI per TecnoGestió S.L.
 
-## 🏢 Context
+##  Context
 
 L’empresa **TecnoGestió S.L.**, dedicada a la gestió documental i assessorament informàtic, té un petit despatx amb **4 ordinadors de sobretaula**, una **impressora-fotocopiadora multifunció** (similar a les que té l’escola) i un **router d’accés a Internet**.  
 
@@ -10,7 +10,7 @@ S’han posat en contacte amb l’empresa on esteu fent l’estada, i el vostre 
 
 ---
 
-## 🧠 Tasques a realitzar
+##  Tasques a realitzar
 
 ### 1. Inventari d’equips
 - Llista dels dispositius que es connectaran al SAI (ordinadors, monitors, router, etc.).
@@ -56,8 +56,8 @@ Elaboreu un **informe tècnic complet** que inclogui:
 
 ## 📄 Accés a la solució documentada
 
-➡️ [Veure la solució de la Tasca 2](./solucio.md)
+ [Veure la solució de la Tasca 2](./solucio.md)
 
 ---
 
-[🏠 Tornar al repositori principal](../Readme.md)
+[ Tornar al repositori principal](../Readme.md)
