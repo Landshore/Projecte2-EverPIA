@@ -17,11 +17,10 @@ Totes les guies estan documentades en format Markdown per facilitar-ne la lectur
 
 ## Contingut de cada carpeta
 
-Each folder (tasca2 and tasca3) includes:
-- README.md file with a short description and a direct link to the solution file
-- solucio.md file containing the documentation and screenshots
-- img/ folder containing images in .png format
-
+Cada carpeta (tasca2 i tasca3) conte:
+- README.md amb una descripcio breu i un enllaç directe al fitxer de solucio
+- solucio.md amb la documentacio i les captures
+- img/ amb les imatges en format .png
 
 **Autor:** Damian Zibowa  
 **Data:** 10/10/2025
