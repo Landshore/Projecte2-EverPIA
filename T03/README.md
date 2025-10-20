@@ -1,6 +1,6 @@
 # Tasca 3 - Seguretat Lògica: Recuperant Accés a Sistemes
 
-## 📋 Descripció del Projecte
+##  Descripció del Projecte
 
 Un client ha arribat a la consultora amb un **portàtil amb Zorin OS** (distribució Linux amb entorn gràfic) que utilitzava un directiu. El problema: **ha oblidat la contrasenya** i cal recuperar l'accés per obtenir documentació crítica.
 
@@ -24,12 +24,12 @@ Per evitar danys a l'equip original, s'ha clonat el disc en un **disc virtual** 
 
 Després de la recuperació, el client demana **fortificar el sistema** per evitar que, en cas de robatori del portàtil, algú pugui accedir a la informació utilitzant el mateix procediment.
 
-## 📄 Contingut d'aquesta carpeta
+##  Contingut d'aquesta carpeta
 
 - **[solucio.md](./solucio.md)** - Documentació completa del procediment amb captures
 - **img/** - Captures de pantalla de tot el procés
 
-## 🔗 Accés Directe
+##  Accés Directe
 
 ➡️ **[VEURE LA SOLUCIÓ COMPLETA](./solucio.md)**
 
