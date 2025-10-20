@@ -79,7 +79,7 @@ VA = 290 / 0,9 = 322,2 VA
 
 ### Model 1: APC Back-UPS BX950U-GR
 
-![Especificacions del SAI APC Back-UPS BX950U-GR](./img/sai-apc-bx950.png)
+![Especificacions del SAI APC Back-UPS BX950U-GR](./img/SAI_one.png)
 
 **Característiques principals:**
 - **Potència:** 950 VA / 480 W
@@ -104,7 +104,7 @@ VA = 290 / 0,9 = 322,2 VA
 
 ### Model 2: Eaton Ellipse ECO 650
 
-![Especificacions del SAI Eaton Ellipse ECO 650](./img/sai-eaton-eco650.png)
+![Especificacions del SAI Eaton Ellipse ECO 650](./img/SAI_TWO.png)
 
 **Característiques principals:**
 - **Potència:** 650 VA / 400 W
@@ -130,7 +130,7 @@ VA = 290 / 0,9 = 322,2 VA
 
 ### Model 3: CyberPower CP825EPFCLCD
 
-![Especificacions del SAI CyberPower CP825EPFCLCD](./img/sai-cyberpower-cp825.png)
+![Especificacions del SAI CyberPower CP825EPFCLCD](./img/SAI_three.png)
 
 **Característiques principals:**
 - **Potència:** 825 VA / 495 W
