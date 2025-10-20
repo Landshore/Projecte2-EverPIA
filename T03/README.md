@@ -6,7 +6,7 @@ Un client ha arribat a la consultora amb un **portàtil amb Zorin OS** (distribu
 
 Per evitar danys a l'equip original, s'ha clonat el disc en un **disc virtual** per treballar-hi de forma segura.
 
-## 🎯 Objectius de la Tasca
+##  Objectius de la Tasca
 
 ### Part 1: Recuperació d'accés
 1. Crear una màquina virtual i connectar el disc virtual
@@ -20,7 +20,7 @@ Per evitar danys a l'equip original, s'ha clonat el disc en un **disc virtual** 
 7. Configurar protecció per contrasenya al GRUB
 8. Evitar que es pugui repetir el procediment de recuperació
 
-## ⚠️ Context de Seguretat
+##  Context de Seguretat
 
 Després de la recuperació, el client demana **fortificar el sistema** per evitar que, en cas de robatori del portàtil, algú pugui accedir a la informació utilitzant el mateix procediment.
 
@@ -35,14 +35,14 @@ Després de la recuperació, el client demana **fortificar el sistema** per evit
 
 ---
 
-## 📚 Material de Referència
+##  Material de Referència
 
 - Disc virtual proporcionat pel client
 - Apunts RA1AA4 Seguretat Lògica
 - [Recuperant Password en Linux](https://waytoit.wordpress.com/2013/06/06/recuperando-password-en-ubuntu/)
 - Documentació oficial de GRUB
 
-## 🛠️ Eines Utilitzades
+##  Eines Utilitzades
 
 - VirtualBox / VMware
 - Zorin OS (Linux)
