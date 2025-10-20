@@ -257,4 +257,4 @@ La implementació d'aquest SAI permetrà a l'empresa:
 
 ---
 
-[⬅️ Tornar a la pàgina de la Tasca 2](./Readme.md) | [🏠 Tornar al repositori principal](../Readme.md)
+[⬅️ Tornar a la pàgina de la Tasca 2](./README.md) | [🏠 Tornar al repositori principal](../../README.md)
