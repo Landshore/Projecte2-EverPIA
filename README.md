@@ -10,7 +10,7 @@ Totes les guies estan documentades en format Markdown per facilitar-ne la lectur
 - [Tasca 2](./tasca2/README.md)  
   Saber calcular els requeriments d'un equip per un SAI
 
-- [Tasca 3](./tasca3/README.md)  
+- [Tasca 3](./T03/README.md)  
   Lorem ipsum dolor sit amet, consectetur adipiscing
 
 ---
