@@ -11,7 +11,7 @@ Totes les guies estan documentades en format Markdown per facilitar-ne la lectur
   Saber calcular els requeriments d'un equip per un SAI
 
 - [Tasca 3](./T03/README.md)  
-  Lorem ipsum dolor sit amet, consectetur adipiscing
+  Recuperant accés al sistema Linux, i fortificant la seguretat
 
 ---
 
