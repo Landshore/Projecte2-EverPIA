@@ -1,50 +1,131 @@
-Aquí tenim el disk
-![Imatge del disk de la tasca](./img/imatge_disk.png)
+# Solució: Seguretat Lògica - Recuperant Accés a Sistemes
 
-Afegim el disk de la tasca:
+## Part 1: Recuperació d'Accés
 
-Cambiem l’ordre d’execució:
+### 1. Afegir el disc de la tasca
 
-Després d’iniciar la màquina el reniciem (des de dins).
+Aquí tenim el disc:
 
+![Imatge del disc de la tasca](./img/imatge_disk.png)
 
-Seleccionem opcions avançades.
+Afegim el disc de la tasca a la màquina virtual.
 
+![Configuració del disc a VirtualBox](./img/imatge_1.png)
 
-Opció de recuperació
+---
 
+### 2. Canviar l'ordre d'execució
 
-En aquest part fem el seleccionem root. I fas control + d.
+Cambiem l'ordre d'execució per assegurar que arrenca des del disc correcte.
 
+![Ordre d'arrencada del sistema](./img/imatge_3.png)
 
-Ara canviem la contrasenya i reniciem el sistema. 
+---
 
+### 3. Accedir al menú GRUB
 
+Després d'iniciar la màquina, la reiniciem (des de dins).
+
+![Reinici del sistema](./img/imatge_5.png)
+
+Seleccionem **opcions avançades**.
+
+![Menú GRUB amb opcions avançades](./img/imatge_6.png)
+
+---
+
+### 4. Mode de recuperació
+
+Seleccionem l'**opció de recuperació**.
+
+![Selecció del mode recovery](./img/CANVIA_NOM_5.png)
+
+---
+
+### 5. Accedir com a root
+
+En aquest part seleccionem **root** i fem **Control + D**.
+
+![Menú de recuperació i accés root](./img/imatge_7.png)
+
+---
+
+### 6. Canviar la contrasenya
+
+Ara canviem la contrasenya i reiniciem el sistema.
+
+![Comanda passwd per canviar contrasenya](./img/imatge_8.png)
 
 Així és com es reinicia la contrasenya.
 
+![Verificació del canvi de contrasenya](./img/imatge_9.png)
+
+---
+
+## Part 2: Fortificació del GRUB
+
+### 7. Generar hash de la contrasenya
 
 Això és la comanda per transformar la teva contrasenya utilitzant hash:
 
+![Comanda grub-mkpasswd-pbkdf2](./img/imatge_11.png)
+
+---
+
+### 8. Editar el fitxer GRUB
 
 Obrim el fitxer GRUB.
 
+![Edició del fitxer 40_custom](./img/imatge_12.png)
 
-El guardem a salida.txt
+El guardem a "salida.txt".
 
+![Contingut del fitxer amb el hash](./img/imatge_13.png)
 
-Copies el hash
+---
 
+### 9. Configurar usuari i hash
 
-Poses el usuari desitjada i el hash
+Copies el hash.
 
+![Hash generat copiat](./img/imatge_14.png)
 
-Actualitzes el grub i fas un reboot
+Poses el nom d'usuari desitjat i el hash al fitxer de configuració.
 
+![Configuració amb superusers i password_pbkdf2](./img/imatge_17.png)
 
-Introdueixes: 
--El teu nom 
--Contrasenya
+---
+
+### 10. Actualitzar GRUB
+
+Actualitzes el grub i fas un reboot.
+
+![Comanda update-grub](./img/imatge_15.png)
+
+---
+
+### 11. Verificació final
+
+Introdueixes:
+- El teu nom d'usuari
+- Contrasenya
+
+![Pantalla de login del GRUB protegit](./img/imatge_16.png)
 
 I ja està, això és la tasca.
 
+![Accés correcte al sistema](./img/imatge_10.png)
+
+---
+
+## Conclusions
+
+✅ S'ha recuperat l'accés al sistema canviant la contrasenya
+
+✅ S'ha fortificat el GRUB amb protecció per contrasenya
+
+✅ El sistema ara està protegit contra accessos no autoritzats
+
+---
+
+[⬅️ Tornar a la pàgina de la Tasca 3](./README.md) | [🏠 Tornar al repositori principal](../README.md)
