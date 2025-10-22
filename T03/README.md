@@ -38,13 +38,6 @@ Després de la recuperació, el client demana **fortificar el sistema** per evit
 - [Recuperant Password en Linux](https://waytoit.wordpress.com/2013/06/06/recuperando-password-en-ubuntu/)
 - Documentació oficial de GRUB
 
-##  Eines Utilitzades
-
-- VirtualBox / VMware
-- Zorin OS (Linux)
-- Editor de configuració GRUB
-- Mode de recuperació de Linux
-
 ---
 
 [⬅️ Tornar al repositori principal](../README.md)
