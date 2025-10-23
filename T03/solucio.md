@@ -114,7 +114,7 @@ Introdueixes:
 
 I ja està, això és la tasca.
 
-![Accés correcte al sistema](./img/image_16.png)
+![Accés correcte al sistema](./img/image_10.png)
 
 ---
 
