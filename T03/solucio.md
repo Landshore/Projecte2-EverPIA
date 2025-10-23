@@ -100,7 +100,7 @@ Poses el nom d'usuari desitjat i el hash al fitxer de configuració.
 
 Actualitzes el grub i fas un reboot.
 
-![Comanda update-grub](./img/imatge_15.png)
+![Comanda update-grub](./img/image_15.png)
 
 ---
 
