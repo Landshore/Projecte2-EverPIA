@@ -80,7 +80,7 @@ Obrim el fitxer GRUB.
 
 El guardem a "salida.txt".
 
-![Contingut del fitxer amb el hash](./img/imatge_13.png)
+![Contingut del fitxer amb el hash](./img/image_13.png)
 
 ---
 
