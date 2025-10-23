@@ -76,7 +76,7 @@ Això és la comanda per transformar la teva contrasenya utilitzant hash:
 
 Obrim el fitxer GRUB.
 
-![Edició del fitxer 40_custom](./img/imatge_12.png)
+![Edició del fitxer 40_custom](./img/image_12.png)
 
 El guardem a "salida.txt".
 
