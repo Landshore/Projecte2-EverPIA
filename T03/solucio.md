@@ -18,7 +18,7 @@ Afegim el disc de la tasca a la màquina virtual.
 
 Cambiem l'ordre d'execució per assegurar que arrenca des del disc correcte.
 
-![Ordre d'arrencada del sistema](./img/imatge_3.png)
+![Ordre d'arrencada del sistema](./img/image_3.png)
 
 ---
 
