@@ -28,7 +28,7 @@ Després de la recuperació, el client demana **fortificar el sistema** per evit
 
 - **[solucio.md](./solucio.md)** - Documentació completa del procediment amb captures
 - **img/** - Captures de pantalla de tot el procés
-- 
+
 ---
 
 ##  Material de Referència
