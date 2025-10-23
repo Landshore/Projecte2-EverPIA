@@ -26,7 +26,7 @@ Cambiem l'ordre d'execució per assegurar que arrenca des del disc correcte.
 
 Després d'iniciar la màquina, la reiniciem (des de dins).
 
-![Reinici del sistema](./img/imatge_reinici.png)
+![Reinici del sistema](./img/imatge_reniciar.png)
 
 Seleccionem **opcions avançades**.
 
