@@ -110,7 +110,7 @@ Introdueixes:
 - El teu nom d'usuari
 - Contrasenya
 
-![Pantalla de login del GRUB protegit](./img/imatge_16.png)
+![Pantalla de login del GRUB protegit](./img/image_16.png)
 
 I ja està, això és la tasca.
 
