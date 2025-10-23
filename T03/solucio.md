@@ -88,7 +88,7 @@ El guardem a "salida.txt".
 
 Copies el hash.
 
-![Hash generat copiat](./img/imatge_14.png)
+![Hash generat copiat](./img/image_14.png)
 
 Poses el nom d'usuari desitjat i el hash al fitxer de configuració.
 
