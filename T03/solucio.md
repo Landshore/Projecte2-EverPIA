@@ -30,7 +30,7 @@ Després d'iniciar la màquina, la reiniciem (des de dins).
 
 Seleccionem **opcions avançades**.
 
-![Menú GRUB amb opcions avançades](./img/imatge_5.png)
+![Menú GRUB amb opcions avançades](./img/image_5.png)
 
 ---
 
