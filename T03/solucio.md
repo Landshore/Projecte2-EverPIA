@@ -30,7 +30,7 @@ Després d'iniciar la màquina, la reiniciem (des de dins).
 
 Seleccionem **opcions avançades**.
 
-![Menú GRUB amb opcions avançades](./img/imatge_6.png)
+![Menú GRUB amb opcions avançades](./img/imatge_5.png)
 
 ---
 
@@ -38,7 +38,7 @@ Seleccionem **opcions avançades**.
 
 Seleccionem l'**opció de recuperació**.
 
-![Selecció del mode recovery](./img/CANVIA_NOM_5.png)
+![Selecció del mode recovery](./img/image_6.png)
 
 ---
 
